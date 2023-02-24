@@ -17,3 +17,8 @@ img{
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-shadow: 10px 10px rgb(216, 213, 213);
 }
+.player{
+    font-size: 75px;
+    color: rgb(58, 164, 99);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
