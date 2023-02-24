@@ -3,3 +3,11 @@
     text-align: center;
     margin: 50px auto;
 }
+
+.dices{
+    text-align: center;
+    display: inline-block;
+}
+img{
+    max-width: 800px;
+}
