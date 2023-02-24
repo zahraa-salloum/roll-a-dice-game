@@ -11,3 +11,8 @@
 img{
     max-width: 800px;
 }
+.headerTitle{
+    font-size: 150px;
+    color: rgb(215, 32, 26);
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
